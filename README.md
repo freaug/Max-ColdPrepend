@@ -9,7 +9,7 @@ Cycling '74 > java > classes
 
 Then just create a new <i><b>mxj prepend</b></i> object. 
 <ul>
-<li>Inlet 1 takes the message to prepend as well as outputting the prepend message</li>
+<li>Inlet 1 takes the message to prepend as well as outputting the prepended message</li>
 <li>Inlet 2 takes the message that you will be prepending to</li>
 
 <li>Outlet 1 outputs the entire message</li>
